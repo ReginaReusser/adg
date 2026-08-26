@@ -30,7 +30,7 @@ After downloading VMware Workstation Pro, installing and launching it:
 - Click `Open a virtual machine`, select the `*.ovf` file in the extracted folder, and confirm.
 - Take a snapshot (`Ctrl + Shift + S`).
     - This allows to easily go back to that state later, meaning you can re-activate the VM's Windows 90-day license again and again.
-    - For more info, see [Understanding snapshots (VMware)](https://www.vmware.com/support/ws5/doc/ws_preserve_sshot_understanding.html).
+    - For more info, see [Understanding VMware Virtual Machine Snapshots: What You Need to Know] (https://vmblog.com/bylines/understanding-vmware-virtual-machine-snapshots-what-you-need-to-know/).
 - Click `Edit virtual machine settings`.
     - Go to `Processors & Memory`, then select at least 2000MB of memory.
     - To be able to connect to the internet, at the bottom of the `Hardware` tab, click `Add`.
