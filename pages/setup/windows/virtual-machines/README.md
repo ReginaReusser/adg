@@ -11,4 +11,5 @@ The available virtual machines can be [downloaded on Microsoft's website](https:
 
 The VMs are meant to be used for testing purposes only and expire after some time.
 
-Be sure to change the VM's keyboard layout to your preferred one as described here: [How to change your keyboard layout (Windows Support)](https://support.microsoft.com/en-us/help/258824/how-to-change-your-keyboard-layout).
+
+Be sure to change the VM's keyboard layout to your preferred one as described here: [How to change your keyboard layout (Windows Support)](https://support.microsoft.com/en-us/windows/manage-the-language-and-keyboard-input-layout-settings-in-windows-12a10cb4-8626-9b77-0ccb-5013e0c7c7a2).
