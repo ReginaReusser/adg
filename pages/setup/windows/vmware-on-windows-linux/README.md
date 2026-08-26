@@ -23,7 +23,7 @@ Extract the VM to a proper location, for example `C:\Virtual Machines\Accessibil
 
 ## Installing VMware Workstation Pro
 
-Notice: we recommend using [VMware Workstation Pro](https://www.vmware.com/products/workstation-pro.html) in our guide. But there is also [VMware Workstation Player](https://www.vmware.com/products/workstation-player.html): it is cheaper, but has limited functionality, for example it's missing the snapshots feature (see below).
+Notice: The virtual machines provided by Microsoft must run on virtualization software such as VMware Workstation. We recommend using [VMware Workstation Pro](https://www.vmware.com/products/workstation-pro.html) in our guide. But there is also [VMware Workstation Player](https://www.vmware.com/products/workstation-player.html): it is cheaper, but has limited functionality, for example it's missing the snapshots feature (see below).
 
 After downloading VMware Workstation Pro, installing and launching it:
 
