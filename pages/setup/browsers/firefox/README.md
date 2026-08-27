@@ -14,9 +14,7 @@ card_text: "One of Firefox's main characteristics is its high conformance regard
 
 ## Installation
 
-The Quantum release of FF is not compatible with screen readers yet: [Can I use my screen reader with the new Firefox? (Mozilla.org)](https://support.mozilla.org/en-US/kb/can-i-use-my-screen-reader-new-firefox).
-
-For the time being, you should [download the Extended Support Release (ESR) of Firefox](https://www.mozilla.org/en-US/firefox/organizations/all/) and install it.
+[Download Firefox](https://www.firefox.com/en-US/) and install it.
 
 Note: there's also a [portable version](https://portableapps.com/de/apps/internet/firefox_portable) of FF that does not require admin rights.
 
