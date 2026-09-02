@@ -37,6 +37,8 @@ If you chose normal installation, you can start (and restart) NVDA any time by p
 
 If you chose portable installation, simply start NVDA using the `NVDA.exe` in its installation folder.
 
+When NVDA starts for the first time, the Welcome dialog is displayed. Here you can configure which key should be used as the NVDA modifier key. If your keyboard does not have an Insert key, select Caps Lock as the NVDA modifier key.
+
 ### Using the menu
 
 After starting NVDA and clicking away its start screen, you won't see much of it except a small icon in the system tray.
@@ -47,7 +49,7 @@ By clicking on the icon, the NVDA menu is displayed.
 
 ![The NVDA menu](_media/the-nvda-menu.png)
 
-Alternatively, you can press `NVDA + N` to display it. By default, the `NVDA` key is the `Insert` key (if you are really curious and want to learn more about this, skip ahead and read [The Insert Modifier Key](/knowledge/screen-readers/desktop/insert-modifier-key).
+Alternatively, you can press `NVDA + N` to display it. `NVDA` refers to the modifier key you selected in the Welcome dialog, typically `Insert` or `Caps Lock`. (If you are really curious and want to learn more about this, skip ahead and read [The Insert Modifier Key](/knowledge/screen-readers/desktop/insert-modifier-key).
 
 The best way to use the NVDA menu is by keyboard:
 
